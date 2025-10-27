@@ -1,0 +1,5 @@
+{
+  "name": "Panda Video Animator",
+  "description": "An application that brings a static image of a cute panda to life by generating a short, animated video using the Gemini API.",
+  "requestFramePermissions": []
+}
